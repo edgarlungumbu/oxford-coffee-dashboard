@@ -1,6 +1,6 @@
 # Coffee Shop Oxford Co. Dashboard
 
-![img_7.png](img_7.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ## Overview
 An interactive Excel dashboard designed to analyse coffee shop sales performance through interactive charts and clear KPI reports. The dashboard is built to help users easily interpret business performance by identifying trends, filtering data and tracking key metrics.
@@ -44,12 +44,12 @@ Businesses frequently collect large volumes of sales data but struggle to displa
 
 ### Dashboard
 
-![img_8.png](img_8.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Sales Data
 
-![img_9.png](img_9.png)
+![Sales Data Table](Screenshots/Sales Data Table.png)
 
 ### Pivot Tables
 
-![img_10.png](img_10.png)
+![Pivot Tables](Screenshots/Pivot Tables.png)
