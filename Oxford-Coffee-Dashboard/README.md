@@ -48,8 +48,8 @@ Businesses frequently collect large volumes of sales data but struggle to displa
 
 ### Sales Data
 
-![Sales Data Table](Screenshots/Sales Data Table.png)
+![Sales_Data_Table](Screenshots/Sales_Data_Table.png)
 
 ### Pivot Tables
 
-![Pivot Tables](Screenshots/Pivot Tables.png)
+![Pivot_Tables](Screenshots/Pivot_Tables.png)
