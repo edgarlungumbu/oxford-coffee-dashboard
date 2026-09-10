@@ -24,14 +24,14 @@ Businesses frequently collect large volumes of sales data but struggle to displa
 ## Requirements
 - Microsoft Excel (Desktop Version)
 
-## How to Use:
+## How to Use
 
 1. Open the workbook in Microsoft Excel.
 2. Navigate to the Dashboard worksheet.
 3. Use the slicers to filter the data by the available categories.
 4. The KPIs, charts and insights update automatically based on the selected filters.
 
-## Dashboard Contents:
+## Dashboard Contents
 
 - Interactive Dashboard
 - KPI Cards
